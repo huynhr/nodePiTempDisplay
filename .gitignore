@@ -1,2 +1,4 @@
 node_modules
 application.json
+config.json
+.env
